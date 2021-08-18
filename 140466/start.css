@@ -1,0 +1,33 @@
+body {
+    background-image: url('bc2.png');
+    padding-top: 15%;
+    text-align: center;
+}
+       
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+  
+select{
+  color: Black;
+  background-color: white;
+} 
+
+option{
+  color: Black;
+  background-color: white;
+}
+
+.inpat{
+  color: Black;
+  background-color: white;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}

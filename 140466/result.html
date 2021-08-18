@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='result.css') }}">
+    <title>Викторина</title>
+</head>
+<body> 
+    <h1><p>Молодец ты прошёл мою викторину!!!🙂🙃🙂</p><p>{{name}}</p></h1>
+    <h2>Ты набрал {{true_answer}} / {{total_question}}</h2>
+</body>
+</html>
